@@ -1,1 +1,1 @@
-# Block-Schoolms-DeYuGuanLiXiTong-Permission-Detection
+# 屏蔽崇科德育管理系统权限检测
